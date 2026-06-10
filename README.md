@@ -22,6 +22,16 @@ Responder preguntas de negocio reales a través de consultas SQL estructuradas, 
 
 ---
 
+## 📸 Ejemplos de resultados
+
+**Peso porcentual de cada territorio sobre el total de ventas**
+![Ranking territorios](captura_territorios.png)
+
+**Segmentación de clientes en cuartiles**
+![Segmentación clientes](captura_clientes.png)
+
+---
+
 ## 🛠️ Tecnologías utilizadas
 
 - **SQL Server 2022**
@@ -42,6 +52,12 @@ Responder preguntas de negocio reales a través de consultas SQL estructuradas, 
 - Análisis temporal: `LAG`, `LEAD`, acumulados YTD
 - Funciones de fecha: `DATEDIFF`, `DATEPART`, `DATENAME`
 - Funciones condicionales: `CASE WHEN`, `ISNULL`, `NULLIF`
+
+---
+
+## 📋 Conclusiones
+
+Los hallazgos y recomendaciones obtenidos tras el análisis están documentados en el archivo [`CONCLUSIONES.md`](CONCLUSIONES_SQL.md)
 
 ---
 
